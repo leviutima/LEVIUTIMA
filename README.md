@@ -1,5 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/leviutima/LEVIUTIMA/assets/146796839/0ec90181-bb40-4ded-b43c-49ebd8ddd518
-" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/leviutima/LEVIUTIMA/assets/146796839/c7bb2f48-b1f0-4bbd-9ed3-348f238eef81" />
 &nbsp;&nbsp;&nbsp;
 
 
