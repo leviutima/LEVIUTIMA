@@ -1,4 +1,5 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/leviutima/LEVIUTIMA/assets/146796839/0ec90181-bb40-4ded-b43c-49ebd8ddd518
+" />
 &nbsp;&nbsp;&nbsp;
 
 
