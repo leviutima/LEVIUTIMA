@@ -3,8 +3,8 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+ <img  width='50%'height="300em" src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&langs_count=16&theme=great-gatsby"/>
  </div>
  
  &nbsp;
