@@ -17,10 +17,6 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
 
 
-### Second Stack:
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
 #### Workstation Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
