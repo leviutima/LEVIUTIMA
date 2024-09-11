@@ -20,16 +20,6 @@
 ### Second Stack:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-<img src="https://github.com/leviutima/LEVIUTIMA/assets/146796839/3d099cb7-bd12-4172-a347-18a33aee3e17" min-width="400px" max-width="300px" width="350px" align="right" alt="Computador iuriCode">
-
-
-#### Studying in this moment:
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### Databases:
-
-![SQL ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 #### Workstation Tools:
 
