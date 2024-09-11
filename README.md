@@ -14,6 +14,9 @@
 ## Main Skills
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,vite)](https://skillicons.dev)
 
+ <div>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTg4dHAxeGZ5bWc1N2UyYWozZ2o1aWJnNm9laGY2MGN5bTAyZjNkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Gif" width="200px"/>
+  </div>
   
 ## My workstation
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
