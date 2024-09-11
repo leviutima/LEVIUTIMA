@@ -1,9 +1,10 @@
 ## Hello dev! Im Levi...
 
-<div  align="center" style="margin-bottom:100px">
- <img  width='50%'height="250em" src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
- <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&langs_count=16&theme=apprentice"/>
+<div align="center" style="margin-bottom:100px; display: flex; justify-content: center;">
+  <img width="50%" height="250em" src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&langs_count=16&theme=apprentice"/>
 </div>
+
 
 ## My Skills
 
