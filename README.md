@@ -14,8 +14,8 @@
 
 ## My Skills
 
-#### Main Stack:
 [![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
+
 
 ### Second Stack:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -33,9 +33,7 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ### My HOBBY:
 <a href="https://steamcommunity.com/id/LEVIUTIMA/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
