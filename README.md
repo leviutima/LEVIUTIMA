@@ -4,12 +4,12 @@
   <img height:10vh src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&langs_count=16&theme=transparent"/>
   <img height:10vh src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
+<!-- Para o modo escuro -->
+![GitHub Snake dark](https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Para o modo claro -->
+
+
 
 
 ## My Skills
