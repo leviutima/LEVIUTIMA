@@ -1,8 +1,8 @@
 ## Hello dev! Im Levi...
 
 <div >
-  <img widht=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&langs_count=16&theme=transparent"/>
   <img widht=50% src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img widht=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
 <picture align="center">
