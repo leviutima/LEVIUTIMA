@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,vite)](https://skillicons.dev)
 
   
-<span aling= center> My workstation
+<span aling= center display=flex> My workstation
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 <span/>
  ## My hobbie
