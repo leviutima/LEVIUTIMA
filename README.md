@@ -11,8 +11,13 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  
 ## Main Skills
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,vite)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,vite)](https://skillicons.dev)
+
+</div>
 
 <span>Who I am?</span>
 
