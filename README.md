@@ -5,7 +5,7 @@
   <img height:10vh src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake gif](https://github.com/leviutima/leviutima/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Animation](https://github.com/leviutima/leviutima/blob/output/github-contribution-grid-snake.gif)
 
 
 ## My Skills
