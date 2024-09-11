@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,vite)](https://skillicons.dev)
 
   
-## Workstation
+<span>My workstation<span/>
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
  ## My hobbie
   <a href="https://steamcommunity.com/id/LEVIUTIMA/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
