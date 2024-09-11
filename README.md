@@ -1,7 +1,7 @@
 ## Hello dev! Im Levi...
 
 <div  align="center" style="margin-bottom:100px">
- <img align="right" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&langs_count=16&theme=apprentice"/>
+ <img align="right" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&langs_count=16&theme=apprentice"/>
  <img align="right" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&langs_count=16&theme=apprentice"/>
 </div>
 
