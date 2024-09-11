@@ -12,7 +12,7 @@
 </picture>
 
 ## Main Skills
-  [![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,vite)](https://skillicons.dev)
   
 ## Workstation
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
