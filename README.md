@@ -11,14 +11,14 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
+## Main Skills
   [![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
   
 
-  
+  ##Workstation
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
+  ##My hobbie
   <a href="https://steamcommunity.com/id/LEVIUTIMA/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
   </a>
 &nbsp;
