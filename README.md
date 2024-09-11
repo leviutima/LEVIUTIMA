@@ -12,9 +12,8 @@
 </picture>
 
 ## Main Skills
-<div aling= center>
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,vite)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,vite)](https://skillicons.dev)
+
   
 ## Workstation
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
