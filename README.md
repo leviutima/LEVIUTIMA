@@ -10,17 +10,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake.svg">
 </picture>
-
 <div align="center">
   
 ## Main Skills
-  
   [![My Skills](https://skillicons.dev/icons?i=ts,js,react,vite)](https://skillicons.dev)
 
 </div>
 
 <span>Who I am?</span>
-
 <table>
   <tr>
     <td>
@@ -30,8 +27,7 @@
       <p>Levi Yuki Utima is a dedicated front-end developer with a passion for building interactive and efficient user interfaces. Specializing in React, Levi enjoys exploring new technologies and continuously enhancing his skills. His deep love for programming drives him to achieve his long-term goal of becoming a full-stack developer, bridging the gap between front-end and back-end development. With a curious and determined mindset, Levi is always looking for opportunities to grow and innovate in the world of web development.</p>
     </td>
   </tr>
-</table>
-
+</table>  
 
 <div align= "center">
   
@@ -42,8 +38,4 @@
 
 
 </div>
- 
-
-  
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=black&reversal=false&section=footer"/>
