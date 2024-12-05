@@ -27,13 +27,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTg4dHAxeGZ5bWc1N2UyYWozZ2o1aWJnNm9laGY2MGN5bTAyZjNkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Gif" width=1000vw/>
+      <img src="https://44.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_ob4wyigmTV1v8xd18o1_500.gif" alt="Gif" width=1900vw/>
     </td>
     <td>
-      <p>Levi Yuki Utima is a dedicated front-end developer with a passion for building interactive and efficient user interfaces. Specializing in React, Levi enjoys exploring new technologies and continuously enhancing his skills. His deep love for programming drives him to achieve his long-term goal of becoming a full-stack developer, bridging the gap between front-end and back-end development. With a curious and determined mindset, Levi is always looking for opportunities to grow and innovate in the world of web development.</p>
+      <div style="width: 20vw;">
+        Levi Yuki Utima is a skilled front-end developer with expertise in React, passionate about creating engaging user interfaces. Aspiring to become a full-stack developer, he is driven by curiosity and a commitment to innovation, constantly expanding his knowledge to deliver impactful web solutions.
+      </div>
     </td>
   </tr>
-</table>  
+</table> 
 
 <div align= "center">
   
