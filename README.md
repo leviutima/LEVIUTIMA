@@ -1,18 +1,4 @@
 ## Hello dev! Im Levi...
-<span>Who I am?</span>
-<table>
-  <tr>
-    <td>
-      <img src="https://44.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_ob4wyigmTV1v8xd18o1_500.gif" alt="Gif" width=1900vw/>
-    </td>
-    <td>
-      <div style="width: 20vw;">
-        Levi Yuki Utima is a skilled front-end developer with expertise in React, passionate about creating engaging user interfaces. Aspiring to become a full-stack developer, he is driven by curiosity and a commitment to innovation, constantly expanding his knowledge to deliver impactful web solutions.
-      </div>
-    </td>
-  </tr>
-</table> 
-
 <div align="center">
   <img height:15vh src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height:15vh src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&langs_count=16&theme=transparent"/>
