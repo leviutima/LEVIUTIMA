@@ -1,5 +1,5 @@
-## Hello dev! Im Levi...
-<img align="right" src="https://komarev.com/ghpvc/?username=leviutima" alt="GitHub profile views counter">
+## Hello dev! Im Levi... <img align="right" src="https://komarev.com/ghpvc/?username=leviutima" alt="GitHub profile views counter">
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake-dark.svg">
