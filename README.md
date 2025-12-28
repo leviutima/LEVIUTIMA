@@ -1,9 +1,4 @@
 ## Hello dev! Im Levi...
-<div align="center">
-  <img height:15vh src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&langs_count=16&theme=transparent&hide_border=true"/>
-  <img height:15vh src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake-dark.svg">
