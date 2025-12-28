@@ -21,7 +21,7 @@
 </div>
 
 
-<div align= "center">
+<div align= "start">
   
 ## Contacts:
 
