@@ -1,10 +1,10 @@
 # Hello dev! Im Levi... <img align="right" src="https://komarev.com/ghpvc/?username=leviutima" alt="GitHub profile views counter">
 
-Desenvolvedor fullstack focado em **performance, escalabilidade e arquitetura limpa**. Backend movido a Clean Architecture, SOLID e TDD; frontend com Feature-Sliced Design e foco em DX. Também trabalho com **orquestração de IA** aplicada a automação de tarefas.
+Desenvolvedor fullstack focado em **performance, escalabilidade e arquitetura limpa**. Backend movido a Clean Architecture, SOLID e TDD; frontend com Feature-Sliced Design e foco em DX. Construo também para **mobile com Expo** e trabalho com **orquestração de IA** aplicada a automação de tarefas.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake.svg">
 </picture>
 
@@ -31,15 +31,25 @@ Desenvolvedor fullstack focado em **performance, escalabilidade e arquitetura li
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 
+**Mobile**
+
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+
 **Backend**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![sqlc](https://img.shields.io/badge/sqlc-2D2D2D?style=flat)
+![pgx](https://img.shields.io/badge/pgx-00ADD8?style=flat&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Auth & Segurança**
+
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2_PKCE-EB5424?style=flat&logo=auth0&logoColor=white)
 
 **Arquitetura & Práticas**
 
@@ -58,11 +68,17 @@ Desenvolvedor fullstack focado em **performance, escalabilidade e arquitetura li
 
 ## No que tô trabalhando
 
-Projeto pessoal de **e-commerce** completo, pensado de ponta a ponta:
+**Cave Mode** — app pessoal de life management (finanças, dieta, metas e saúde num lugar só).
 
-- **Algoritmo de recomendação** sugestões de produtos personalizadas.
+- **Mobile** — Expo / React Native, com design language monocromático e token system próprio.
+- **Backend** — Go seguindo Clean Architecture, PostgreSQL com sqlc + pgx.
+- **Auth** — email/senha + Google e Apple OAuth via PKCE como primeira vertical.
+
+**Daily Fragrance** — e-commerce completo de perfumes, pensado de ponta a ponta.
+
+- **Algoritmo de recomendação** — sugestões de produtos personalizadas.
 - **Backoffice + ERP** — gestão de catálogo, pedidos, estoque e operação integrados.
-- **Frontend** — Next.js com FSD (Feature-Sliced Design), TanStack Query para data fetching/cache, React Hook Form + Zod para formulários e validação, e Axios na camada de HTTP.
+- **Frontend** — Next.js com FSD, TanStack Query para data fetching/cache, React Hook Form + Zod para formulários e validação, e Axios na camada de HTTP.
 - **Backend** — Go seguindo Clean Architecture e SOLID, com separação clara de camadas e baixo acoplamento.
 - **Infra** — Docker para o banco de dados, ambiente reprodutível desde o dev.
 
