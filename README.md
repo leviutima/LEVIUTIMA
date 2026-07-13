@@ -71,16 +71,8 @@ Desenvolvedor fullstack focado em **performance, escalabilidade e arquitetura li
 **Cave Mode** — app pessoal de life management (finanças, dieta, metas e saúde num lugar só).
 
 - **Mobile** — Expo / React Native, com design language monocromático e token system próprio.
-- **Backend** — Go seguindo Clean Architecture, PostgreSQL com sqlc + pgx.
+- **Backend** — Nest seguindo Clean Architecture, PostgreSQL, Docker e Prisma
 - **Auth** — email/senha + Google e Apple OAuth via PKCE como primeira vertical.
-
-**Daily Fragrance** — e-commerce completo de perfumes, pensado de ponta a ponta.
-
-- **Algoritmo de recomendação** — sugestões de produtos personalizadas.
-- **Backoffice + ERP** — gestão de catálogo, pedidos, estoque e operação integrados.
-- **Frontend** — Next.js com FSD, TanStack Query para data fetching/cache, React Hook Form + Zod para formulários e validação, e Axios na camada de HTTP.
-- **Backend** — Go seguindo Clean Architecture e SOLID, com separação clara de camadas e baixo acoplamento.
-- **Infra** — Docker para o banco de dados, ambiente reprodutível desde o dev.
 
 Além disso, explorando orquestração de IA para automação de fluxos e aprofundando em arquitetura escalável e padrões de microsserviços.
 
