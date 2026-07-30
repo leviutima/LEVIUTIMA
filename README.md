@@ -1,97 +1,74 @@
-# Hello dev! Im Levi... <img align="right" src="https://komarev.com/ghpvc/?username=leviutima" alt="GitHub profile views counter">
+# Levi Utima
 
-Desenvolvedor fullstack focado em **performance, escalabilidade e arquitetura limpa**. Backend movido a Clean Architecture, SOLID e TDD; frontend com Feature-Sliced Design e foco em DX. Construo também para **mobile com Expo** e trabalho com **orquestração de IA** aplicada a automação de tarefas.
+**Full-stack developer — Go & TypeScript.** I build production systems end to end: Next.js on the front, Go and NestJS on the back. Clean Architecture, SOLID, TDD.
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leviutima/leviutima/output/github-contribution-grid-snake.svg">
-</picture>
+Based in São Paulo, Brazil (UTC-3) — available for remote work worldwide.
 
-<div align="start">
+[![Email](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leviutima.profissional@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-yuki-utima-7b3187289/)
+
+---
+
+## Open Source
+
+### [create-fsd-app](https://github.com/leviutima/create-fsd-app)
+
+A CLI that scaffolds front-end projects (Vite, Next.js, Expo) pre-structured in **Feature-Sliced Design**, with architecture linting built in — so the structure stays enforced as the codebase grows, instead of decaying after month three.
+
+Built because most front-end projects don't fail on syntax; they fail on structure nobody agreed on.
+
+---
+
+## Selected Work
+
+### Dayli Fragrance — E-commerce platform
+Full storefront and API for a fragrance brand: product catalog, cart, and checkout, plus a guided recommendation quiz that maps customer context (climate, occasion, time of day) to a curated product set.
+
+- **Front-end** — [Next.js 15, TypeScript, Feature-Sliced Design](https://github.com/leviutima/dayli-fragrance-frontend)
+- **API** — [Go, Clean Architecture, PostgreSQL](https://github.com/leviutima/dayli-fragrance-backend)
+
+### Cave Mode — Life management app
+A single app for finances, diet, goals, and health tracking. Currently in active development.
+
+- **Mobile** — Expo / React Native, monochrome design language on a custom token system
+- **API** — NestJS with Clean Architecture, PostgreSQL, Prisma, Docker
+- **Auth** — email/password plus Google and Apple OAuth via PKCE
+
+### [Notra Corner](https://github.com/leviutima/notra-corner)
+A study and productivity workspace: Pomodoro timer, task kanban, hydration tracking, and notes in one place. Built with TypeScript.
+
+### [Go REST API](https://github.com/leviutima/golang-api)
+Product catalog API in Go, built on Clean Architecture principles with PostgreSQL and fully containerized with Docker.
+
+---
 
 ## Stack
 
-**Linguagens**
+**Languages** — Go · TypeScript · JavaScript
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+**Front-end** — React · Next.js · Astro · Vite · TanStack Query · Zustand · React Hook Form · Zod · Tailwind CSS
 
-**Frontend**
+**Mobile** — Expo · React Native
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+**Back-end** — Go · NestJS · Node.js · PostgreSQL · Prisma · sqlc · pgx · Docker
 
-**Mobile**
+**Auth & Security** — Keycloak · OAuth2 with PKCE
 
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+**Architecture** — Clean Architecture · SOLID · TDD · Feature-Sliced Design · Microservices
 
-**Backend**
+**AI & Automation** — AI orchestration for workflow automation
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![sqlc](https://img.shields.io/badge/sqlc-2D2D2D?style=flat)
-![pgx](https://img.shields.io/badge/pgx-00ADD8?style=flat&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+---
 
-**Auth & Segurança**
+## How I work
 
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2_PKCE-EB5424?style=flat&logo=auth0&logoColor=white)
+I care about the seams — the boundaries between modules, the contract between front and back, the decisions that are cheap now and expensive in six months. That's why I write in Go and TypeScript, structure back-ends around Clean Architecture, and built a tool to keep front-end structure from drifting.
 
-**Arquitetura & Práticas**
+I work independently and communicate in writing by default — async-friendly across time zones.
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2D2D2D?style=flat&logo=cleanarchitecture&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-512BD4?style=flat)
-![TDD](https://img.shields.io/badge/TDD-25A162?style=flat)
-![Feature--Sliced_Design](https://img.shields.io/badge/Feature--Sliced_Design-FF6B00?style=flat)
-![Microservices](https://img.shields.io/badge/Microservices-FF9900?style=flat)
-
-**IA & Automação**
-
-![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-412991?style=flat&logo=openai&logoColor=white)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-4A154B?style=flat)
-
-</div>
-
-## No que tô trabalhando
-
-**Cave Mode** — app pessoal de life management (finanças, dieta, metas e saúde num lugar só).
-
-- **Mobile** — Expo / React Native, com design language monocromático e token system próprio.
-- **Backend** — Nest seguindo Clean Architecture, PostgreSQL, Docker e Prisma
-- **Auth** — email/senha + Google e Apple OAuth via PKCE como primeira vertical.
-
-Além disso, explorando orquestração de IA para automação de fluxos e aprofundando em arquitetura escalável e padrões de microsserviços.
+---
 
 ## GitHub Stats
 
-<div align="start">
-
 ![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="start">
-
-## Contatos
-
-<a href="mailto:leviutima.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/levi-yuki-utima-7b3187289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=black&reversal=false&section=footer"/>
