@@ -1,6 +1,6 @@
 # Levi Utima
 
-**Full-stack developer — Go & TypeScript.** I build production systems end to end: Next.js on the front, Go and NestJS on the back. Clean Architecture, SOLID, TDD.
+**Full-stack developer — Go & TypeScript.** I build production systems end to end: Next.js and Expo on the front, Go and NestJS on the back. Clean Architecture, SOLID, TDD.
 
 Based in São Paulo, Brazil (UTC-3) — available for remote work worldwide.
 
@@ -9,36 +9,29 @@ Based in São Paulo, Brazil (UTC-3) — available for remote work worldwide.
 
 ---
 
-## Open Source
+## Cave Mode
 
-### [create-fsd-app](https://github.com/leviutima/create-fsd-app)
+A life management app that brings finances, diet, goals, and health tracking into one place — built solo, front to back.
+
+**Mobile** — Expo / React Native, structured in Feature-Sliced Design, with a monochrome design language built on a custom token system.
+
+**API** — NestJS following Clean Architecture, with PostgreSQL, Prisma, and Docker. Domain logic isolated from framework and transport, so the business rules stay testable and the delivery layer stays replaceable.
+
+**Auth** — email/password plus Google and Apple sign-in over OAuth2 with PKCE, treated as the first vertical rather than an afterthought bolted on later.
+
+The interesting problem here isn't any single feature — it's keeping four unrelated domains (money, food, goals, health) in one product without the codebase collapsing into a shared-everything mess. That's what the architecture is for.
+
+*In active development.*
+
+---
+
+## create-fsd-app
 
 A CLI that scaffolds front-end projects (Vite, Next.js, Expo) pre-structured in **Feature-Sliced Design**, with architecture linting built in — so the structure stays enforced as the codebase grows, instead of decaying after month three.
 
 Built because most front-end projects don't fail on syntax; they fail on structure nobody agreed on.
 
----
-
-## Selected Work
-
-### Dayli Fragrance — E-commerce platform
-Full storefront and API for a fragrance brand: product catalog, cart, and checkout, plus a guided recommendation quiz that maps customer context (climate, occasion, time of day) to a curated product set.
-
-- **Front-end** — [Next.js 15, TypeScript, Feature-Sliced Design](https://github.com/leviutima/dayli-fragrance-frontend)
-- **API** — [Go, Clean Architecture, PostgreSQL](https://github.com/leviutima/dayli-fragrance-backend)
-
-### Cave Mode — Life management app
-A single app for finances, diet, goals, and health tracking. Currently in active development.
-
-- **Mobile** — Expo / React Native, monochrome design language on a custom token system
-- **API** — NestJS with Clean Architecture, PostgreSQL, Prisma, Docker
-- **Auth** — email/password plus Google and Apple OAuth via PKCE
-
-### [Notra Corner](https://github.com/leviutima/notra-corner)
-A study and productivity workspace: Pomodoro timer, task kanban, hydration tracking, and notes in one place. Built with TypeScript.
-
-### [Go REST API](https://github.com/leviutima/golang-api)
-Product catalog API in Go, built on Clean Architecture principles with PostgreSQL and fully containerized with Docker.
+→ [github.com/leviutima/create-fsd-app](https://github.com/leviutima/create-fsd-app)
 
 ---
 
