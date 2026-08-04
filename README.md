@@ -59,9 +59,3 @@ I care about the seams — the boundaries between modules, the contract between 
 
 I work independently and communicate in writing by default — async-friendly across time zones.
 
----
-
-## GitHub Stats
-
-![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leviutima&layout=compact&theme=tokyonight&hide_border=true)
