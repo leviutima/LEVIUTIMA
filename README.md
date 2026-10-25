@@ -1,75 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=160&section=header&text=Levi%20Utima&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=140&section=header&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Arquitetura+de+Software;TypeScript+e+Go" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=oi%2C+eu+sou+o+Levi;dev+full-stack;TypeScript+e+Go;arquitetura+antes+do+c%C3%B3digo" />
 
-<br>
-
-<a href="mailto:"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%20%C2%B7%20UTC--3-000000?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Remoto-000000?style=for-the-badge&logo=globe&logoColor=white" />
+<!-- gif lofi: troque a linha abaixo pelo gif que escolher -->
+<!-- <img src="URL_DO_GIF" width="420" /> -->
 
 </div>
 
 <br>
 
-## Olá, eu sou o Levi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" height="32" />
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" height="28" /> sobre
 
-Sou dev full-stack em São Paulo. Gosto de pensar a arquitetura antes do código: como dividir os módulos, como o front conversa com o back e quais padrões o time vai seguir.
+dev full-stack em são paulo. gosto de pensar a estrutura antes de sair codando: como dividir os módulos, como o front conversa com o back e quais padrões o time segue.
 
- **No dia a dia:** React, Next.js, Vite e Astro no front. NestJS, Express e Fastify no back.
-
- **Como organizo:** Feature-Sliced Design, arquitetura modular, Clean Architecture e hexagonal. SOLID, TDD e spec-driven development.
- **Além do código:** instrumentação de eventos, GA4, funil de conversão e developer experience do time.
-
-**Explorando agora:** Go no backend e orquestração de AI no fluxo de desenvolvimento.
-
-<br>
-
-## Tecnologias
-
-<table>
-  <tr>
-    <td width="140"><b>Front-end</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,astro,tailwind&theme=dark" /><br>
-      <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
-      <img src="https://img.shields.io/badge/React%20Native-000000?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/TanStack%20Query-000000?style=flat-square&logo=reactquery&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Back-end</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go,java,spring&theme=dark" /><br>
-      <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Banco e infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,prisma,docker&theme=dark" /></td>
-  </tr>
-  <tr>
-    <td><b>Analytics</b></td>
-    <td><img src="https://img.shields.io/badge/Google%20Analytics%204-000000?style=flat-square&logo=googleanalytics&logoColor=white" /></td>
-  </tr>
-</table>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="18" height="18" /> front com react, next, vite e astro. back com nest, express e fastify
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="18" height="18" /> feature-sliced design, arquitetura modular, clean arch, tdd
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18" height="18" /> eventos, ga4 e funil de conversão
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" height="18" /> estudando go e orquestração de ai
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="18" height="18" /> aberto a trabalho remoto, de qualquer lugar (UTC-3)
 
 <br>
 
-## Estatísticas
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" height="28" /> o que eu uso
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&icon_color=ffffff&text_color=c9d1d9&locale=pt-br&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=leviutima&hide_border=true&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&locale=pt_BR" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,astro,tailwind,nodejs,nestjs,express,go,java,spring,postgres,prisma,docker&theme=dark&perline=8" />
+
+</div>
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" height="28" /> por aqui
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&icon_color=ffffff&text_color=c9d1d9&locale=pt-br&count_private=true" />
+<img height="160" src="https://streak-stats.demolab.com?user=leviutima&hide_border=true&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&locale=pt_BR" />
 
 <br><br>
 
 <img width="100%" src="https://raw.githubusercontent.com/leviutima/leviutima/output/github-snake-dark.svg" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+[email](mailto:) · [linkedin](https://linkedin.com/in/)
 
 </div>
 
