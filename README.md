@@ -15,9 +15,9 @@
 
 <br>
 
-<img align="right" width="360" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif" />
-
 ### Olá, eu sou o Levi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" height="32" />
+
+<img align="right" width="360" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif" />
 
 Desenvolvedor full-stack em São Paulo, com foco em arquitetura de software.
 
@@ -47,7 +47,7 @@ Desenvolvedor full-stack em São Paulo, com foco em arquitetura de software.
   </tr>
   <tr>
     <td><b>Banco e infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,terraform,gcp,githubactions,nginx&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,prisma,redis,docker,kubernetes,terraform,gcp,githubactions&theme=dark" /></td>
   </tr>
 </table>
 
