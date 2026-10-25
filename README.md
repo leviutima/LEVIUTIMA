@@ -17,7 +17,7 @@
 
 <img align="right" width="360" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif" />
 
-## Olá, eu sou o Levi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" height="32" />
+### Olá, eu sou o Levi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" height="32" />
 
 Desenvolvedor full-stack em São Paulo, com foco em arquitetura de software.
 
@@ -57,8 +57,8 @@ Desenvolvedor full-stack em São Paulo, com foco em arquitetura de software.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&icon_color=ffffff&text_color=c9d1d9&locale=pt-br&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=leviutima&hide_border=true&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&locale=pt_BR" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&icon_color=ffffff&text_color=c9d1d9&locale=pt-br&count_private=true&card_width=495" />
+<img width="49%" src="https://streak-stats.demolab.com?user=leviutima&hide_border=true&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&locale=pt_BR" />
 
 <br><br>
 
