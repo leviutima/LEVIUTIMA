@@ -19,7 +19,7 @@
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-Desenvolvedor full-stack / Arquiteto de Software em São Paulo, com foco em arquitetura de software.
+Desenvolvedor full-stack / Arquiteto de Software em São Paulo
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" height="20" /> **Front:** React, Next.js, Vite e Astro
 
