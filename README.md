@@ -1,57 +1,40 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=140&section=header&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:21262d&height=180&text=Levi%20Utima&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Full-stack%20developer%20%C2%B7%20TypeScript%20e%20Go&descSize=16&descAlignY=66&descColor=8b949e" />
 
-<div align="center">
+<p align="center">
+  <a href="mailto:">Email</a> ·
+  <a href="https://linkedin.com/in/">LinkedIn</a> ·
+  São Paulo, UTC-3 · Remoto
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=oi%2C+eu+sou+o+Levi;dev+full-stack;TypeScript+e+Go;arquitetura+antes+do+c%C3%B3digo" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<!-- gif lofi: troque a linha abaixo pelo gif que escolher -->
-<!-- <img src="URL_DO_GIF" width="420" /> -->
+### Sobre
 
-</div>
+Desenvolvedor full-stack. No front trabalho com React, Next.js, Vite e Astro. No back, com NestJS, Express e Fastify, e estou estudando Go.
 
-<br>
+Organizo projetos com Feature-Sliced Design, arquitetura modular e Clean Architecture. Testes com TDD.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" height="28" /> sobre
+Também cuido de analytics: eventos, GA4 e funil de conversão.
 
-dev full-stack em são paulo. gosto de pensar a estrutura antes de sair codando: como dividir os módulos, como o front conversa com o back e quais padrões o time segue.
+  </td>
+    <td width="50%" align="center" valign="middle">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&icon_color=ffffff&text_color=c9d1d9&locale=pt-br&count_private=true" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="18" height="18" /> front com react, next, vite e astro. back com nest, express e fastify
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="18" height="18" /> feature-sliced design, arquitetura modular, clean arch, tdd
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18" height="18" /> eventos, ga4 e funil de conversão
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" height="18" /> estudando go e orquestração de ai
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="18" height="18" /> aberto a trabalho remoto, de qualquer lugar (UTC-3)
+### Stack
 
-<br>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,astro,tailwind,nodejs,nestjs,express,go,postgres,prisma,docker,java,spring&theme=dark&perline=5" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" height="28" /> o que eu uso
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,astro,tailwind,nodejs,nestjs,express,go,java,spring,postgres,prisma,docker&theme=dark&perline=8" />
-
-</div>
-
-<br>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" height="28" /> por aqui
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&icon_color=ffffff&text_color=c9d1d9&locale=pt-br&count_private=true" />
-<img height="160" src="https://streak-stats.demolab.com?user=leviutima&hide_border=true&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&locale=pt_BR" />
-
-<br><br>
+  </td>
+    <td width="50%" align="center" valign="middle">
+      <img width="100%" src="https://streak-stats.demolab.com?user=leviutima&hide_border=true&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&locale=pt_BR" />
+    </td>
+  </tr>
+</table>
 
 <img width="100%" src="https://raw.githubusercontent.com/leviutima/leviutima/output/github-snake-dark.svg" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-[email](mailto:) · [linkedin](https://linkedin.com/in/)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer" width="100%" />
