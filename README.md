@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=160&section=header&text=Levi%20Utima&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Levi%20Utima&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%" />
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Arquitetura+de+Software;TypeScript+e+Go" />
 
@@ -15,17 +15,16 @@
 
 <br>
 
-## Sobre mim
+## Olá, eu sou o Levi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" height="32" />
 
-Desenvolvedor full-stack com foco em arquitetura de software. Defino a estrutura de aplicações web, mobile e API: divisão de módulos, contratos entre front e back e os padrões que o time segue.
+Sou dev full-stack em São Paulo. Gosto de pensar a arquitetura antes do código: como dividir os módulos, como o front conversa com o back e quais padrões o time vai seguir.
 
-- **Arquitetura:** Feature-Sliced Design, arquitetura modular, Clean Architecture e hexagonal
-- **Front-end:** React, Next.js, Vite e Astro
-- **Back-end:** NestJS, Express, Fastify
-- **Qualidade:** SOLID, TDD e spec-driven development
-- **Developer experience:** estrutura de projeto, ferramentas e convenções de time
-- **Analytics:** instrumentação de eventos, GA4 e funil de conversão
-- **AI:** orquestração de AI no fluxo de desenvolvimento
+ **No dia a dia:** React, Next.js, Vite e Astro no front. NestJS, Express e Fastify no back.
+
+ **Como organizo:** Feature-Sliced Design, arquitetura modular, Clean Architecture e hexagonal. SOLID, TDD e spec-driven development.
+ **Além do código:** instrumentação de eventos, GA4, funil de conversão e developer experience do time.
+
+**Explorando agora:** Go no backend e orquestração de AI no fluxo de desenvolvimento.
 
 <br>
 
@@ -73,3 +72,5 @@ Desenvolvedor full-stack com foco em arquitetura de software. Defino a estrutura
 <img width="100%" src="https://raw.githubusercontent.com/leviutima/leviutima/output/github-snake-dark.svg" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer" width="100%" />
