@@ -47,7 +47,7 @@ Desenvolvedor full-stack em São Paulo, com foco em arquitetura de software.
   </tr>
   <tr>
     <td><b>Banco e infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,prisma,docker&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,terraform,gcp,githubactions,nginx&theme=dark" /></td>
   </tr>
 </table>
 
