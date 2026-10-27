@@ -2,7 +2,7 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-### Olá, eu sou o Levi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="26" height="26" />
+### Olá, eu sou o Levi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="20" height="20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&vCenter=true&width=420&height=30&lines=Next.js+%2B+NestJS;Feature-Sliced+Design+e+Clean+Arch;GA4+e+funil+de+convers%C3%A3o;Orquestra%C3%A7%C3%A3o+de+AI;SDD+e+TDD" width="430" height="30" />
 
