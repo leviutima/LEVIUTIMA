@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&vCenter=true&width=420&height=30&lines=Next.js+%2B+NestJS;Feature-Sliced+Design+e+Clean+Arch;GA4+e+funil+de+convers%C3%A3o;Orquestra%C3%A7%C3%A3o+de+AI;SDD+e+TDD" width="430" height="30" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="18" height="18" /> **Front:** React, Next.js, Vite e Astro<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18" height="18" /> **Back:** NestJS, Express, Fastify e Go<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18" height="18" /> **Back:** NestJS, Express, Fastify, Go e Spring Boot<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="18" height="18" /> **Arquitetura:** FSD, modular e Clean Architecture<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18" height="18" /> **Analytics:** eventos, GA4 e funil
 
