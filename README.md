@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:58a6ff&height=130&section=header&text=Levi%20Utima&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Arquiteto%20de%20Software&descSize=14&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:58a6ff&height=110&section=header&text=Levi%20Utima&fontSize=28&fontColor=ffffff&fontAlignY=19&desc=Full-Stack%20%C2%B7%20Arquiteto%20de%20Software&descSize=14&descAlignY=35&animation=fadeIn" width="100%" />
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
