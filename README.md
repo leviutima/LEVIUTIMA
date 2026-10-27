@@ -21,8 +21,6 @@
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,astro,tailwind,nodejs,nestjs,express,go,java,spring,postgres,prisma,redis,docker,kubernetes,terraform,gcp,githubactions&theme=dark&perline=21" width="100%" />
 
-<br><br>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=leviutima&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&locale=pt-br&count_private=true&card_width=495" />
 <img width="49%" src="https://streak-stats.demolab.com?user=leviutima&hide_border=true&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&locale=pt_BR" />
 
