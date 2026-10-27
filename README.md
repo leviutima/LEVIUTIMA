@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/in%20LinkedIn-1f2a44?style=for-the-badge" /></a>
 <img src="https://img.shields.io/badge/SP%20%C2%B7%20Remoto-1f2a44?style=for-the-badge&logo=googlemaps&logoColor=58a6ff" />
 
-<br clear="right">
+
 
 <div align="center">
 
